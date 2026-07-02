@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to this page!"
+date:   2026-07-02 15:09:31 -0500
+categories: Yap
+---
+
+I am ZeroZM0 or Zero or 0 or whatever and this is my github page! This will hold stuff like mod changelogs, yaps, etc! feel free to browse!
