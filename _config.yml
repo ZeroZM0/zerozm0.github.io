@@ -28,7 +28,7 @@ twitter_username: ZeroZM0
 github_username:  ZeroZM0
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
