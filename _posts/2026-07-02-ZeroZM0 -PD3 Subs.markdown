@@ -7,6 +7,18 @@ categories: Mods
 
 Changelog for Payday 3 Subtitle fixes
 
+1.8.2 Fixed the following subs in Road Rage and Cook Off
+
+Cook Off
+sha_rmk02_15_05 - These notes...It's like a mad scientist wrote them. I think we're good so far. -> These notes... Its-it's like a mad scientist wrote them. I think we're good so far.
+
+sha_rmk02_18_04 - It just says..."Gas it up?"Jesus, Bain...Alright, add the hydrogen chloride. -> It just says..."Gas it up?" Jesus, Bain...Alright, add the hydrogen chloride.
+
+Road Rage
+sha_lvl05_20_03 - Okay, now we can get this truck where we want it. -> Okay, now we can get this truck to where we want it.
+
+sha_lvl05_20A_02 - You need to stay close to the truck, or I'll lose the connection, and the truck will stop. -> You need to stay close to the truck, or I'll lose connection, and the truck will stop.
+
 1.8.1 Added the word "the" to two lines about bollards in NRFTW
 
 1.8 - Added back in subs for 99 Boxes that Starbreeze Nulled out for some reason (they did it too early).

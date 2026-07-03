@@ -33,6 +33,12 @@ hou_tuto_new_68 - There’s not just a smell down here. I can taste it (spits) -
 
 hou_tuto_new_32 - unsubbed -> Easy does it.
 
+# Cook Off
+
+sha_rmk02_15_05 - These notes...It's like a mad scientist wrote them. I think we're good so far. -> These notes... Its-it's like a mad scientist wrote them. I think we're good so far.
+
+sha_rmk02_18_04 - It just says..."Gas it up?"Jesus, Bain...Alright, add the hydrogen chloride. -> It just says..."Gas it up?" Jesus, Bain...Alright, add the hydrogen chloride.
+
 # First World Bank
 
 sha_rmk03_10_01 - Their security system generates new codes each day. From here, you should be able to pull up new codes. -> Their security system generates new codes each day. From here, you should be able to pull up the new codes. 
@@ -189,9 +195,9 @@ sha_lvl10_71_03 - The genie is out! Get to it and turn it back on! -> The genny 
 
 sha_lvl10_75_01 - We are halfway there! Make sure to keep that winch running! -> We're halfway there! Make sure to keep that winch running!
 
-Smash and Grab
+# Smash and Grab
 -
-Smash and Grab - Branch Bank
+## Smash and Grab - Branch Bank
 
 sha_lvlsg2_02_03 - You need to find a red keycard. I bet it's nearby. -> You need a red keycard. I bet it's nearby.
 
@@ -202,7 +208,7 @@ sha_lvlsg2_09_01 - Cops are on there way! Let's speed this up! -> Cops are on th
 sha_lvlsg2_17_03 - That's everything they've got! You're nothing if not thorough. Time get the hell out of there! -> That's everything they've got! You're nothing if not thorough. Time to get the hell out of there!
 
 
-Smash and Grab - Police Station
+## Smash and Grab - Police Station
 
 sha_lvlsg_02_02 - Check the cars in the garage and parking lot. There's got to be contraband in some them. -> Check the cars in the garage and parking lot. There's got to be contraband in some of them.
 
@@ -212,24 +218,28 @@ sha_lvlsg_09_05 - You must be great at Easter egg hunts! -> Heh. You must be gre
 
 sha_lvlsg_12_01 - Looks like that came from an impounded car. Luck break! -> Looks like that came from an impounded car. Lucky break!
 
-Road Rage
+# Road Rage
 -
+sha_lvl05_20_03 - Okay, now we can get this truck where we want it. -> Okay, now we can get this truck to where we want it.
+
+sha_lvl05_20A_02 - You need to stay close to the truck, or I'll lose the connection, and the truck will stop. -> You need to stay close to the truck, or I'll lose connection, and the truck will stop.
+
 sha_lvl05_37A_03: Head on down along the bridge!-> Head down along the bridge!
 
 
-Houston Breakout
+# Houston Breakout
 -
 sha_lvl11_49_02: The baliffs are brining him down to the holding area via the elevator. Ready up. -> The baliffs are bringing him down to the holding area via the elevator. Ready up.
 
 sha_lvl11_49_03: They're moving Houston, the elevator is on its way down to the holding area. Ger ready. -> They're moving Houston, the elevator is on its way down to the holding area. Get ready.
 
-Syntax Error
+# Syntax Error
 -
 
 sha_lvl09_50_01: That's all three pieces of the drone data. Now for the tricky part: getting the hell out of here -> That's all three pieces of the drone data. Now for the tricky part: getting the hell out of here!
 
 
-Delivery Charge
+# Delivery Charge
 -
 
 sha_lvl15_05_02:If my intel's correct, all cash from the transports has been moved into the depot's vault. You'll find it in the main building. -> If my intel's correct, all cash from the transports has been moved into the depot's vault. You can find it in the main building.
@@ -241,7 +251,7 @@ sha_lvl15_42_03: There's as lot of money in the counting rooms, but the doors ar
 sha_lvl15_46_01:When you pull a Wixia processor out of storage, it'll start degrading. You need to secure it back in the trailer ASAP. -> When you pull a Wixia processor out of storage, it'll start degrading. You need to secure it back in the trailer A-S-A-P.
 
 
-Shopping Spree
+# Shopping Spree
 -
 sha_lvl16_01_02: Before for we steal Pietro's merchandise, we need to know where it is. The intel you want should be in his office. -> Before we steal Pietro's merchandise, we need to know where it is. The intel you want should be in his office.
 
