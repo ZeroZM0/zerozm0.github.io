@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PD3 Miscellanous Subtitle Fixes Changelog"
-date:   2026-07-02 15:09:31 -0500
+date:   2026-07-02 15:10:31 -0500
 categories: Mods
 ---
 
