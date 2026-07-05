@@ -33,6 +33,12 @@ hou_tuto_new_68 - There’s not just a smell down here. I can taste it (spits) -
 
 hou_tuto_new_32 - unsubbed -> Easy does it.
 
+## Objective Descriptions 
+
+LVL_Pharaoh_OBJ_ReachBasement_DES - Make your way down to the basment of the parking garage. -> Make your way down to the basement of the parking garage.
+
+LVL_Pharaoh_OBJ_WalkPastGuards_DES - This is a public space wich means that police and employees will ignore you as long as you are not doing anything illegal. -> This is a public space which means that police and employees will ignore you as long as you are not doing anything illegal.
+
 # Cook Off
 
 sha_rmk02_15_05 - These notes...It's like a mad scientist wrote them. I think we're good so far. -> These notes... Its-it's like a mad scientist wrote them. I think we're good so far.
@@ -75,6 +81,8 @@ sha_lvl07_02_03 - According to our intel, the encryption keys are stored on a ha
 sha_lvl07_05_01 - Just like I thought. We need to find that code to enter the vault. -> Something happened... Check the wall panel behind the bed.
 
 sha_lvl07_06_01 - I'd be willing to bet a few bucks the vault code is in the office somewhere. -> The vault needs a code. I bet a few bucks we'll find it in the office.
+
+sha_lvl07_12A_03 - Just spotted a delivery guy entering the building with a thousand-dollar bottle of whisky. Must be for the penthouse. Might be useful... -> Just spotted a delivery guy entering the building with a $1,000 bottle of whisky. Must be for the penthouse. Might be useful...
 
 sha_lvl07_13A_02 - Shit! That guy would have been useful alive. -> Shit! That guy would have been useful.
 
@@ -296,6 +304,11 @@ sha_lvl16_122_02: Does it look real? Eh, somebody will pay for it either way. Ba
 # Contract Text Fixes
 
 Added Missing Category labeling for Knitted nightmare, First Crack, and Thrifty 80s. (I.E. they will be labeled gloves or Mask Molds appropriately in the contract screen now) 
+
+# Shade System
+
+Reimplemented sha_level_loud subs and sha_thermite subs
+
 
 
 

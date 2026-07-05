@@ -7,6 +7,48 @@ categories: Mods
 
 Changelog for Payday 3 Subtitle fixes
 
+1.8.4 - Tweaked a sub in Touch The Sky and reimplemented System subs for thermite complete and level loud for shade
+
+Objective Descriptions 
+
+LVL_Pharaoh_OBJ_ReachBasement_DES - Make your way down to the basment of the parking garage. -> Make your way down to the basement of the parking garage.
+
+LVL_Pharaoh_OBJ_WalkPastGuards_DES - This is a public space wich means that police and employees will ignore you as long as you are not doing anything illegal. -> This is a public space which means that police and employees will ignore you as long as you are not doing anything illegal.
+
+Touch The Sky
+
+sha_lvl07_12A_03 - Just spotted a delivery guy entering the building with a thousand- dollar bottle of whisky. Must be for the penthouse. Might be useful..." -> Just spotted a delivery guy entering the building with a $1,000 bottle of whisky. Must be for the penthouse. Might be useful..."
+
+
+Shade System
+
+Reimplemented sha_level_loud subs and sha_thermite subs
+
+
+1.8.3 - Reimplemented some missing subs for First World Bank and added subs for thermite elevator favor. ( and other stuff)
+
+Preset Weapons
+
+INVENTORY_PRESET_B10_DESC - Rack that sucker and let 'em come to you. Or, if need be, run right off that porch and come to them! Point is with this beautifully adorned pump action shotty does short work of anyone who is in your personal space. And the fire control… gives me goosebumps -> Rack that sucker and let 'em come to you. Or, if need be, run right off that porch and come to them! Point is with this beautifully adorned pump action shotty does short work of anyone who is in your personal space. And the fire control… gives me goosebumps.
+
+
+INVENTORY_WEAPONS_MX63_DESC - You know, subtlety isn’t always the way to go. This LMG will fell your enemies with a roar as it spews forth a barrage of bullets. No muss, no fuss. It’s basically a death machine. I mean, the Swedish name of this thing literally translates to “Lead Sprayer''. \n -> You know, subtlety isn’t always the way to go. This LMG will fell your enemies with a roar as it spews forth a barrage of bullets. No muss, no fuss. It’s basically a death machine. I mean, the Swedish name of this thing literally translates to "Lead Sprayer".
+
+Tutorial
+
+LVL_TUTORIAL_POPUP_MarkTarget - You can mark certain targets to keep track of them.\r\n\r\nMarked targets will have an outline that is visible through the environment for the duration they are marked.\r\n -> You can mark certain targets to keep track of them.\r\n\r\nMarked targets will have an outline that is visible through the environment for the duration they are marked.
+
+First World Bank
+
+- Added subs for thermite elevator favor ( i thought these were subbed before )
+
+sha_thermite_elevator_01 - Unsubbed -> There's some thermite in the elevator. Just Open the Hatch!
+
+sha_thermite_elevator_02 - Unsubbed -> We got some thermite in the elevator. Get that hatch open!
+
+sha_thermite_elevator_03 - Unsubbed -> We stashed some thermite in the elevator. Just get that hatch open!
+
+
 1.8.2 Fixed the following subs in Road Rage and Cook Off
 
 Cook Off
