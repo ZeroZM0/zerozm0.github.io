@@ -74,6 +74,10 @@ sha_rmk03_76_02 - Head for the lobby. We can use some of their décor to extract
 
 sha_rmk03_76_03 - Get the bags to the lobby. Let's put some of their interior decoration to work. -> Get back to the lobby. We can extract the loot through the skylight.
 
+## Dirty Ice
+
+Yeeted a incomplete voiceline left in event sha_lvl02_20F.  Will remove this fix if the voice line is completely fixed 
+
 # Touch The Sky
 
 sha_lvl07_02_03 - According to our intel, the encryption keys are stored on a hard drive, locked away in a vault. Find the master bedroom. That's where the vault is hidden. -> According to our intel, the encryption keys is stored on a hard drive, locked away in a vault. Find the master bedroom. That's where the vault is hidden.
@@ -308,6 +312,10 @@ Added Missing Category labeling for Knitted nightmare, First Crack, and Thrifty 
 # Shade System
 
 Reimplemented sha_level_loud subs and sha_thermite subs
+
+## Add On Addition Compatibility
+
+Accomplice Subs Add-On - Display subs for Bile and Twitch.
 
 
 

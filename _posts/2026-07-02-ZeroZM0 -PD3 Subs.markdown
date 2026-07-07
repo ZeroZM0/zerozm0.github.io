@@ -7,6 +7,24 @@ categories: Mods
 
 Changelog for Payday 3 Subtitle fixes
 
+1.8.6 - rebrand to Miscellaneous Text fixes since its more than just subs now
+Updated to support the rest of the 99 boxes rework subs, merged cook off subs, and fixed a punctuation error.
+99 Boxes
+sha_lvl08_rew_40_03 - They have that gate on lockdown. Use the crane to smash through it -> They have that gate on lockdown. Use the crane to smash through it.
+
+Added subs for a future Accomplice Subs Add-On update
+
+1.8.5 - Removed a incomplete immersion breaking voiceline in dirty ice and added a Add-on
+
+## Dirty Ice
+
+Yeeted a incomplete voiceline left in event sha_lvl02_20F.  Will remove this fix if the voice line is completely fixed 
+
+## Add On Addition Compatibility
+
+Accomplice Subs Add-On - Display subs for Bile and Twitch. Requires Miscellaneous Subtitle fixes. Decided to make this it's own mod page.
+
+
 1.8.4 - Tweaked a sub in Touch The Sky and reimplemented System subs for thermite complete and level loud for shade
 
 Objective Descriptions 
