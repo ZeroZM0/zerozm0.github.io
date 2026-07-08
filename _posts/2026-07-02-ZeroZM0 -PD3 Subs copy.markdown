@@ -309,9 +309,74 @@ sha_lvl16_122_02: Does it look real? Eh, somebody will pay for it either way. Ba
 
 Added Missing Category labeling for Knitted nightmare, First Crack, and Thrifty 80s. (I.E. they will be labeled gloves or Mask Molds appropriately in the contract screen now) 
 
+INVENTORY_PRESET_STAR - Freedom’s Fortune -> SP M11 "Freedom’s Fortune"
+
+Quest005_001C01_DESCRIPTION - Defeat {value} enemies by headshot with the Castigo44 -> Defeat {value} enemies by headshot with the Castigo 44.
+
+Quest005_001C02_DESCRIPTION - Defeat {value} enemies with the Mosconi12C -> Defeat {value} enemies with the Mosconi 12C.
+
+Quest005_001C03_DESCRIPTION - Defeat {value} Shield enemies -> Defeat {value} Shield enemies.
+
+Quest002_004C01_DESCRIPTION - Beat Dirty Ice on Loud (Very Hard+) -> Beat Dirty Ice on Loud (Very Hard+).
+
+Quest004_OB_001C01_DESCRIPTION - Complete the tutorial -> Complete the tutorial.
+
+Quest004_OB_001C02_DESCRIPTION - Start any heist -> Start any heist.
+
+Quest004_OB_001C03_DESCRIPTION - Secure {value} bags.
+
+Quest004_OB_001C04_DESCRIPTION - Complete any heist -> Complete any heist.
+
+Quest003_001C04_DESCRIPTION - Defeat {value} enemies with a headshot while using a human shield -> Defeat {value} enemies with a headshot while using a human shield.
+
+
+# UI/Inventory
+
+UI_MENU_MODESELECT_Tutorial_Description - Hone your skills in the Stealth or Loud tutorials. -> Learn the basics of heisting with Houston at First World Bank.
+
+Solo mode BETA, hosts the game on your local device rather than the official PAYDAY 3 servers. This means lowered performance and potential issues not present in the online version of PAYDAY 3. -> Solo mode BETA is a Work In Progress game mode that allow you to play on your own with AI. Issues might be expected.
+
+INVENTORY_PRESET_STAR - Freedom’s Fortune -> SP M11 "Freedom’s Fortune"
+
+INVENTORY_PRESET_EMPRESS - "Queen's Revenge" -> CAR-4 "Queen's Revenge"
+
+INVENTORY_Weapon_Charm_GoldCoin_01_DESC -> Clover is not one to rely on luck; this charm serves more as a reminder of home. However, she is still alive, and one might attribute that to a bit of luck. But maybe, just maybe, she holds on to it as the many years of heisting might have sparked the tiniest bit of superstition in her.\n -> Clover is not one to rely on luck; this charm serves more as a reminder of home. However, she is still alive, and one might attribute that to a bit of luck. But maybe, just maybe, she holds on to it as the many years of heisting might have sparked the tiniest bit of superstition in her.
+
+
+
+
 # Shade System
 
-Reimplemented sha_level_loud subs and sha_thermite subs
+Reimplemented sha_level_loud subs and sha_thermite subs and others below
+
+Assault Start
+
+Assault Over
+
+FBI Van Arrival
+
+FBI Van Incoming
+
+FBI Van Reminder
+
+Final Assault Alert
+
+Final Assault Reminder
+
+Negotiation
+
+Bulldozer Incoming
+
+Cloaker Incoming
+
+Taser Incoming
+
+
+
+# Shade System Sub fixes
+
+sha_assault_end_a_08 - Ha ha! They weren't expecting that! -> They weren't expecting that!
+
 
 ## Add On Addition Compatibility
 
